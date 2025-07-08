@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Taylor 👋
 
-<!--
-**taylorgoolsby/taylorgoolsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer interested in building thoughtful AI tools and clean, minimal web apps.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
+- Tools: React, Node.js, AWS, HuggingFace, Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+- **[Go-Wrap](https://go-wrap.com)** — Wrapped models go.
+
+## ✍️ Blog / Writing
+- [My Blog](https://tgoolsby.to/blog)
+
+## 📫 Contact Me
+- 🌐 [Website](https://tgoolsby.to)
+- 📧 grainstackdev@gmail.com
+- 🐦 [@tay2win](https://x.com/tay2win)
