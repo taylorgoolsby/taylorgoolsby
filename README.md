@@ -10,7 +10,7 @@ I'm a software engineer interested in building thoughtful AI tools and clean, mi
 - **[Go-Wrap](https://go-wrap.com)** — Wrapped models go.
 
 ## ✍️ Blog / Writing
-- [My Blog](https://tgoolsby.to/blog)
+- [My Blog](https://tgoolsby.to)
 
 ## 📫 Contact Me
 - 🌐 [Website](https://tgoolsby.to)
