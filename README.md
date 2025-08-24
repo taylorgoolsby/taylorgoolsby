@@ -21,6 +21,6 @@
 ## Website
 - Check out my website: [tgoolsby.to](https://tgoolsby.to)
 
-## 📫 Contact Me
+## 📮 Contact Me
 - 🌐 [Website](https://tgoolsby.to)
 - 🐦 [@tay2win](https://x.com/tay2win)
