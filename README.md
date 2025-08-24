@@ -1,16 +1,25 @@
-# Hi, I'm Taylor 👋
+# I'm Taylor
 
-I'm a software engineer interested in building thoughtful AI tools and clean, minimal web apps.
+I like to make websites, small things, prototypes, but I can manage a full stack web app on my own.
+If you are looking for friendship, you won't find it.
+If you came for humanity, there is none, sorry.
+I'm just a lean mean codin' machine, so move b, get out ta way.
 
-## 🛠️ Skills
+## What's New?
+
+AI and crypto are new and no one's really using it, still. 
+So, what are you doing 🫵🏻 ?
+Uhh, what am I doing? 👉🏼👈🏼
+
+## Skills
 - Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
 - Tools: React, Node.js, AWS, HuggingFace, Unity
 
-## 🧠 Projects
-- **[Go-Wrap](https://go-wrap.com)** — Wrapped models go.
+## Projects
+- **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
 
-## ✍️ Blog / Writing
-- [My Blog](https://tgoolsby.to)
+## Website
+- Check out my website: [tgoolsby.to](https://tgoolsby.to)
 
 ## 📫 Contact Me
 - 🌐 [Website](https://tgoolsby.to)
