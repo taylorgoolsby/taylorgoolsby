@@ -9,7 +9,7 @@
 
 * AI and crypto are new and no one's really using it, still. 
 * So, what are you doing 🫵🏻 ?
-* Uhh, what am I doing? 👉🏼👈🏼
+* Um, what am I doing? 👉🏼👈🏼
 
 ## Skills
 - Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
