@@ -23,5 +23,4 @@
 
 ## 📫 Contact Me
 - 🌐 [Website](https://tgoolsby.to)
-- 📧 grainstackdev@gmail.com
 - 🐦 [@tay2win](https://x.com/tay2win)
