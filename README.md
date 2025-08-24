@@ -1,6 +1,6 @@
 # I'm Taylor
 
-1. I like to make websites, small things, prototypes, but I can manage a full stack web app on my own.
+1. I like to make websites, small things, prototypes, but I can manage full stack web apps on my own.
 2. If you are looking for friendship, you won't find it.
 3. If you came for humanity, there is none, sorry.
 4. I'm just a lean mean codin' machine, so move b, get out ta way.
