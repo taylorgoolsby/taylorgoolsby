@@ -18,8 +18,8 @@
 ## Projects
 - **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
 
-## Websites
-- Resume: [tgoolsby.to](https://tgoolsby.to)
+## Website
+- My personal website: [tgoolsby.to](https://tgoolsby.to)
 
 ## 📮 Contact Me
 - 🌐 [Website](https://tgoolsby.to)
