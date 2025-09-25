@@ -1,26 +1,27 @@
-# I'm Taylor
+# I'm Taylor G
 
-1. I like to make websites, small things, prototypes, but I can manage full stack web apps on my own.
+1. I like to make websites, small things, and prototypes, but I can manage a full stack app on my own.
 2. If you are looking for friendship, you won't find it.
-3. If you came for humanity, there is none, sorry.
+3. If you came here for humanity, there is none, sorry.
 4. I'm just a lean mean codin' machine, so move b, get out ta way.
 
 ## What's New?
 
-* AI and crypto are new and no one's really using it, still. 
+* AI and crypto are new and no one's really using it..
 * So, what are you doing 🫵🏻 ?
 * Um, what am I doing? 👉🏼👈🏼
 
 ## Skills
 - Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
-- Tools: React, Node.js, AWS, HuggingFace, Unity
+- Tools: Ghostty, Nvim, React, Node.js, AWS, HuggingFace, Unity
 
 ## Projects
 - **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
 
-## Website
+## Websites
 - My personal website: [tgoolsby.to](https://tgoolsby.to)
 
 ## 📮 Contact Me
-- 🌐 [Website](https://tgoolsby.to)
+- 🌐 [tgoolsby.to](https://tgoolsby.to)
 - 🐦 [@tay2win](https://x.com/tay2win)
+- ![Discord Logo](https://www.svgrepo.com/show/353655/discord-icon.svg) [yatchee](https://discord.com/users/151921194558291968)
