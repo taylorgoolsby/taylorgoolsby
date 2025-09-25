@@ -23,5 +23,5 @@
 
 ## 📮 Contact Me
 - 🌐 [tgoolsby.to](https://tgoolsby.to)
-- <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="14" height="14" /> [@tay2win](https://twitter.com/tay2win)
-- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="14" height="14" /> [@yatchee](https://discord.com/users/151921194558291968)
+- <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="19" height="19" /> [@tay2win](https://twitter.com/tay2win)
+- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="19" height="19" /> [@yatchee](https://discord.com/users/151921194558291968)
