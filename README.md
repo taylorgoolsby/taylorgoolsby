@@ -24,4 +24,4 @@
 ## 📮 Contact Me
 - 🌐 [tgoolsby.to](https://tgoolsby.to)
 - 🐦 [@tay2win](https://x.com/tay2win)
-- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="24" height="24" /> [yatchee](https://discord.com/users/151921194558291968)
+- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="14" height="14" /> [yatchee](https://discord.com/users/151921194558291968)
