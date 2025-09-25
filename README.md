@@ -1,4 +1,4 @@
-# I'm Taylor G
+# I'm Taylor G.
 
 1. I like to make websites, small things, and prototypes, but I can manage a full stack app on my own.
 2. If you are looking for friendship, you won't find it.
