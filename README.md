@@ -17,9 +17,9 @@
 
 ## Projects
 - **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
-- **taylorgoo/ai** - a terminal command like, 'ai, go wrap models'.
-- **taylorgoo/lp** - a terminal command to play music, like, 'ai, tell lp to play xyz'.
-- **taylorgoo/xyz** - keeps track of who was at the top of xyz.
+- **taylorgoolsby/ai** - a terminal command like, 'ai, go wrap models'.
+- **taylorgoolsby/lp** - a terminal command to play music, like, 'ai, tell lp to play xyz'.
+- **taylorgoolsby/xyz** - keeps track of who was at the top of xyz.
 
 ## 📮 Contact Me
 - <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="16" height="16" /> [@tay2win](https://twitter.com/tay2win)
