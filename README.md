@@ -13,7 +13,7 @@
 
 ## Skills
 - Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
-- Tools: Ghostty, Nvim, React, Node.js, AWS, HuggingFace, Unity
+- Tools: Ghostty, Nvim, React, React-Native, Node.js, AWS, HuggingFace, Unity
 
 ## Projects
 - **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
