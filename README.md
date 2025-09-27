@@ -17,11 +17,10 @@
 
 ## Projects
 - **[Go-Wrap](https://go-wrap.com)** — Go wrap models.
-
-## Websites
-- My personal website: [tgoolsby.to](https://tgoolsby.to)
+- **taylorgoo/ai** - a terminal command like, 'ai, go wrap models'.
+- **taylorgoo/lp** - a terminal command to play music, like, 'ai, tell lp to play xyz'.
+- **taylorgoo/xyz** - keeps track of who was at the top of xyz.
 
 ## 📮 Contact Me
-- 🌐 [tgoolsby.to](https://tgoolsby.to)
 - <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="16" height="16" /> [@tay2win](https://twitter.com/tay2win)
 - <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="16" height="16" /> [@yatchee](https://discord.com/users/151921194558291968)
