@@ -1,4 +1,4 @@
-# Hi, I'm Taylor Goo.
+# Hi, I'm Taylor Goolsby.
 
 1. I like to make websites, small things, and prototypes, but I can manage a full stack app on my own.
 2. If you are looking for friendship, you won't find it.
