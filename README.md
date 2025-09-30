@@ -7,7 +7,7 @@
 
 ## What's New?
 
-* AI and crypto are new and no one's really using it..
+* AI and crypto are new and no one's really using them...
 * So, what are you doing 🫵🏼 ?
 * Um, what am I doing? 👉🏼👈🏼
 
