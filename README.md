@@ -28,7 +28,7 @@
 - <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="16" height="16" /> [@tay2win](https://twitter.com/tay2win)
 - <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="16" height="16" /> [@yatchee](https://discord.com/users/151921194558291968)
 
-## ₿ My Crypto Addresses
+## ₿ Crypto Addresses
 - <img src="https://www.svgrepo.com/show/428655/bitcoin-btc-cryptocurrency.svg" width="16" height="16" color="#f6931b" /> bitcoin: bc1pze0m4nfa5d78vvcmqdxrzp9397yyv485cshwrq56ph0hsz5f4lesfeemyg
 - <img src="https://www.svgrepo.com/show/428658/ethereum-crypto-cryptocurrency-2.svg" width="16" height="16" /> ethereum: 0x075fb2520d592AF0c947CFb1d7F68D8701e84ACD
 - <img src="https://www.svgrepo.com/show/470684/solana.svg" width="16" height="16" /> solana: 6HHBYQLJd3nRFuC7LPAtXMtEu6m8RcQStKPqGh3fgGMP
