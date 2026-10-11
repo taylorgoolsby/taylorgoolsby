@@ -25,7 +25,7 @@
 - Implemented LocalPay for PayRecs in JS, and the Q2 integration in python.
 
 ## 📮 Contact Me
-- <img src="https://www.svgrepo.com/download/475689/twitter-color.svg" width="16" height="16" /> [@tay2win](https://twitter.com/tay2win)
+- <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" width="16" height="16" /> [@tay2win](https://twitter.com/tay2win)
 - <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="16" height="16" /> [@yatchee](https://discord.com/users/151921194558291968)
 
 ## 🗡️ Crypto
