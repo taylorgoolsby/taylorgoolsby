@@ -3,7 +3,7 @@
 I am a full stack developer with 6+ years of professional experience.
 
 ## Skills
-- Stack: React, React-Native, Node.js, MySQL, GraphQL, AWS
+- Stack: React, React-Native, Node.js, MySQL, GraphQL, Next.js, AWS
 - Languages: JavaScript, Python, C#, Obj-C, Swift, C, C++
 - Tools: Ghostty, Nvim, HuggingFace, Unity
 
